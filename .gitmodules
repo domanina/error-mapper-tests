@@ -1,0 +1,6 @@
+[submodule "src/main/kotlin/modules/common_module"]
+	path = src/main/kotlin/modules/common_module
+	url = git@gitlab:autotests/common_module.git
+[submodule "src/main/kotlin/modules/test_it_client"]
+	path = src/main/kotlin/modules/test_it_client
+	url = git@gitlab:autotests/test_it_client.git
